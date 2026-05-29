@@ -6,7 +6,6 @@ import org.junit.jupiter.api.DisplayName;
 import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {
-
     private static final double DELTA = 1e-6;
 
     @Test
